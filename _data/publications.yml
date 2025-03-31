@@ -1,4 +1,68 @@
 - authors:
+  - first_name: Bahareh
+    id: 444205
+    last_name: Afshari
+    year_of_birth: 1981
+  - first_name: Graham E.
+    id: 269050
+    last_name: Leigh
+    year_of_birth: 1983
+  - first_name: Guillermo
+    id: 1285556
+    last_name: "Men\xE9ndez Turata"
+    year_of_birth: null
+  id: 348598
+  pubyear: 2024
+  sourceissue: null
+  sourcetitle: arXiv
+  sourcevolume: null
+  title: "Demystifying \u03BC"
+- authors:
+  - first_name: Bahareh
+    id: 444205
+    last_name: Afshari
+    year_of_birth: 1981
+  - first_name: Graham E.
+    id: 269050
+    last_name: Leigh
+    year_of_birth: 1983
+  id: 348597
+  pubyear: 2025
+  sourceissue: null
+  sourcetitle: GUPEA
+  sourcevolume: null
+  title: "A metapredicative study of \U0001D707-arithmetics"
+- authors:
+  - first_name: Graham E.
+    id: 269050
+    last_name: Leigh
+    year_of_birth: 1983
+  - first_name: Anton
+    id: 253733
+    last_name: Pertun Broberg
+    year_of_birth: 1981
+  id: 348595
+  pubyear: 2025
+  sourceissue: null
+  sourcetitle: GUPEA
+  sourcevolume: null
+  title: "On proofs in the Friedman\u2013Sheard theory"
+- authors:
+  - first_name: Daichi
+    id: 1285555
+    last_name: Hayashi
+    year_of_birth: null
+  - first_name: Graham E.
+    id: 269050
+    last_name: Leigh
+    year_of_birth: 1983
+  id: 348596
+  pubyear: 2025
+  sourceissue: null
+  sourcetitle: GUPEA
+  sourcevolume: null
+  title: "A Friedman\u2013Sheard-style Theory for Classical Realisability"
+- authors:
   - first_name: Daichi
     id: 1227304
     last_name: Hayashi
