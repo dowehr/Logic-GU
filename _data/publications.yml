@@ -3,6 +3,39 @@
     id: 444205
     last_name: Afshari
     year_of_birth: 1981
+  - first_name: Dominik
+    id: 970600
+    last_name: Wehr
+    year_of_birth: 1998
+  id: 319472
+  pubyear: 2022
+  sourceissue: null
+  sourcetitle: "Lecture Notes in Computer Science, 28th International Workshop on\
+    \ Logic, Language, Information and Computation, Ia\u0219i, Romania, September\
+    \ 20\u201323, 2022, Proceedings / Agata Ciabattoni, Elaine Pimentel, Ruy J.G.B.\
+    \ de Queiroz (Eds.)"
+  sourcevolume: null
+  title: Abstract Cyclic Proofs
+- authors:
+  - first_name: Daichi
+    id: 1285555
+    last_name: Hayashi
+    year_of_birth: null
+  - first_name: Graham E.
+    id: 269050
+    last_name: Leigh
+    year_of_birth: 1983
+  id: 348596
+  pubyear: 2025
+  sourceissue: null
+  sourcetitle: GUPEA
+  sourcevolume: null
+  title: "A Friedman\u2013Sheard-style Theory for Classical Realisability"
+- authors:
+  - first_name: Bahareh
+    id: 444205
+    last_name: Afshari
+    year_of_birth: 1981
   - first_name: Graham E.
     id: 269050
     last_name: Leigh
@@ -47,21 +80,6 @@
   sourcetitle: GUPEA
   sourcevolume: null
   title: "On proofs in the Friedman\u2013Sheard theory"
-- authors:
-  - first_name: Daichi
-    id: 1285555
-    last_name: Hayashi
-    year_of_birth: null
-  - first_name: Graham E.
-    id: 269050
-    last_name: Leigh
-    year_of_birth: 1983
-  id: 348596
-  pubyear: 2025
-  sourceissue: null
-  sourcetitle: GUPEA
-  sourcevolume: null
-  title: "A Friedman\u2013Sheard-style Theory for Classical Realisability"
 - authors:
   - first_name: Daichi
     id: 1227304
@@ -344,23 +362,6 @@
   sourcetitle: Synthese
   sourcevolume: '202'
   title: 'Re: the rhetic'
-- authors:
-  - first_name: Bahareh
-    id: 444205
-    last_name: Afshari
-    year_of_birth: 1981
-  - first_name: Dominik
-    id: 970600
-    last_name: Wehr
-    year_of_birth: 1998
-  id: 319472
-  pubyear: 2022
-  sourceissue: null
-  sourcetitle: "Lecture Notes in Computer Science, 28th International Workshop on\
-    \ Logic, Language, Information and Computation, Ia\u0219i, Romania, September\
-    \ 20\u201323, 2022, Proceedings"
-  sourcevolume: null
-  title: Abstract Cyclic Proofs (Extended abstract)
 - authors:
   - first_name: Bahareh
     id: 444205
