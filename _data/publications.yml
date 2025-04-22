@@ -1,4 +1,19 @@
 - authors:
+  - first_name: Graham E.
+    id: 269050
+    last_name: Leigh
+    year_of_birth: 1983
+  - first_name: Daichi
+    id: 1291263
+    last_name: Hayashi
+    year_of_birth: null
+  id: 349202
+  pubyear: 2025
+  sourceissue: null
+  sourcetitle: arXiv math.LO
+  sourcevolume: null
+  title: Tarskian Theories of Krivine's Classical Realisability
+- authors:
   - first_name: Bahareh
     id: 444205
     last_name: Afshari
